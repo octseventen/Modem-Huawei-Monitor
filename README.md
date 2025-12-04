@@ -3,5 +3,5 @@
 
 - Run installation script:
 ```
-bash -c "$(wget -qO - 'https://raw.githubusercontent.com/saputribosen/1clickhuawei/refs/heads/main/huaweisetup.sh')"
+bash -c "$(wget -qO - 'https://raw.githubusercontent.com/octseventen/Modem-Huawei-Monitor/refs/heads/main/huaweisetup.sh')"
 ```
